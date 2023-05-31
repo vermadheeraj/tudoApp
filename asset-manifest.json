@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tudoApp/static/css/main.eb4ab021.css",
+    "main.js": "/tudoApp/static/js/main.5a3e416f.js",
+    "index.html": "/tudoApp/index.html",
+    "main.eb4ab021.css.map": "/tudoApp/static/css/main.eb4ab021.css.map",
+    "main.5a3e416f.js.map": "/tudoApp/static/js/main.5a3e416f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4ab021.css",
+    "static/js/main.5a3e416f.js"
+  ]
+}
